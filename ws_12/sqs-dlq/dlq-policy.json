@@ -1,0 +1,5 @@
+{
+  "RedrivePolicy": 
+    "{\"deadLetterTargetArn\" : \"arn:aws:sqs:us-east-1:856529633790:report-requests-dlq\",\"maxReceiveCount\" : \"3\"}",
+  "MessageRetentionPeriod": "28800"
+}

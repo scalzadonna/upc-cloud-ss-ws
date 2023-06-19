@@ -1,0 +1,105 @@
+.
+├── alice
+│   └── book
+│       ├── chapter-01.md
+│       ├── chapter-02.md
+│       └── chapter-03.md
+├── bob
+│   └── book
+│       ├── chapter-01.md
+│       ├── chapter-02.md
+│       └── chapter-03.md
+├── central
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   └── update.sample
+│   ├── info
+│   │   └── exclude
+│   ├── objects
+│   │   ├── 03
+│   │   │   └── 0a2255faf7bf6ad1e0cc4245e130c430e2228f
+│   │   ├── 10
+│   │   │   └── 2bcca0aa9955e9bde15e2d0b8131b833156676
+│   │   ├── 14
+│   │   │   └── b6cb9c9190d96fb690f87ad56f96215bd34e69
+│   │   ├── 21
+│   │   │   └── 0526b49e60611802d4fef78756ec528d1ceff3
+│   │   ├── 31
+│   │   │   └── 01398d86fc2507f555df5a50c73acefb9ad20f
+│   │   ├── 3a
+│   │   │   └── 3701ec91848f0a0b5429ed451358e8bd47c362
+│   │   ├── 3e
+│   │   │   └── 7380f80e96e53b5ecf8b7a4b53cf227fe1b0d1
+│   │   ├── 47
+│   │   │   └── 80ac3765540f0a9ca03ecb83d3036fe2d2e0e9
+│   │   ├── 4f
+│   │   │   └── 00c32f3d913fc2d3755cbb23cd75d89e82768e
+│   │   ├── 54
+│   │   │   └── 720864754bbd9a0141801a48d274757159d3a9
+│   │   ├── 5c
+│   │   │   └── 41cba83bf2c5656fbfda93d3205e8171d52a1d
+│   │   ├── 5d
+│   │   │   └── 08c749dbc4f2c94c4f3eed0db7cd4fd954af56
+│   │   ├── 62
+│   │   │   └── 981070d50cc0d031b3b9558c458b4e0ae4c59b
+│   │   ├── 67
+│   │   │   └── 7c2478ada31064616017203e895d8911c7b5e8
+│   │   ├── 6a
+│   │   │   └── 8914e4cb42e144472f152c90c61f72126ac02b
+│   │   ├── 6c
+│   │   │   └── 9b6ba59deae94bee0648979ed6afe92f292aa4
+│   │   ├── 72
+│   │   │   └── f9829ce5e1e1a822767002eccecae9d2fe7b1e
+│   │   ├── 7a
+│   │   │   └── e5d7216717e4b7ab26fdb8a097f7725f6c6979
+│   │   ├── 7c
+│   │   │   └── 64920668063c6764adf8a65b7c29ab825de7c4
+│   │   ├── 7d
+│   │   │   └── 62cea4b870b6f60c44b118890b81fcd4c6db52
+│   │   ├── 89
+│   │   │   └── 7d017fd2e079600f8757e9c6641a37a1afc813
+│   │   ├── 91
+│   │   │   └── ac8905867975d30d92a88c71892c4706ce2dc1
+│   │   ├── 99
+│   │   │   └── 633081489756ed05ff25b4c2cb349d60e66590
+│   │   ├── 9c
+│   │   │   └── f320d6730468ee19b8d81d6ae379fab1eea84c
+│   │   ├── a1
+│   │   │   └── 08b1eaafeb8ccf9a87537ae762841cd8a20ff1
+│   │   ├── b6
+│   │   │   └── b0a76cdee2c698d471eaba27854bfc20f63e7d
+│   │   ├── d5
+│   │   │   └── 7d5f484b624acd737e2bad8eb0daac9e6a1aae
+│   │   ├── e4
+│   │   │   └── df936e36331233859114dcac2ff49662f9b575
+│   │   ├── ea
+│   │   │   └── 388857e70d20b961ba36a772d182deeadbe86a
+│   │   ├── f0
+│   │   │   └── 8243e5d79983e29e9102adb5a2a474897445b6
+│   │   ├── f7
+│   │   │   └── 758b6cd82f47b7e31ac62fb22b2103cac17bb2
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       └── tags
+│           └── v1
+└── tree.txt
+
+45 directories, 57 files

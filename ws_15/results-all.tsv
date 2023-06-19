@@ -1,0 +1,46 @@
+TimePeriod;LinkedAccount;Service;Amount;Unit;Estimated
+2023-03-18 ; 856529633790;AWS CloudTrail ; 0 ; USD ; False
+2023-03-18 ; 856529633790;AWS Data Transfer ; -0.0018715073 ; USD ; False
+2023-03-18 ; 856529633790;AWS Glue ; 0 ; USD ; False
+2023-03-18 ; 856529633790;AWS Key Management Service ; 0 ; USD ; False
+2023-03-18 ; 856529633790;AWS Lambda ; 0 ; USD ; False
+2023-03-18 ; 856529633790;AWS Step Functions ; 0 ; USD ; False
+2023-03-18 ; 856529633790;AWS X-Ray ; 0 ; USD ; False
+2023-03-18 ; 856529633790;Amazon Athena ; 0 ; USD ; False
+2023-03-18 ; 856529633790;Amazon CloudFront ; 0 ; USD ; False
+2023-03-18 ; 856529633790;Amazon DynamoDB ; 0 ; USD ; False
+2023-03-18 ; 856529633790;EC2 - Other ; 0.0018708732 ; USD ; False
+2023-03-18 ; 856529633790;Amazon Elastic Compute Cloud - Compute ; 0.0000000436 ; USD ; False
+2023-03-18 ; 856529633790;Amazon Elastic Load Balancing ; 0.0000000004 ; USD ; False
+2023-03-18 ; 856529633790;Amazon Simple Notification Service ; 0 ; USD ; False
+2023-03-18 ; 856529633790;Amazon Simple Queue Service ; 0 ; USD ; False
+2023-03-18 ; 856529633790;Amazon Simple Storage Service ; 0.0000005556 ; USD ; False
+2023-03-18 ; 856529633790;AmazonCloudWatch ; -0.0000022404 ; USD ; False
+2023-03-18 ; 856529633790;CloudWatch Events ; 0 ; USD ; False
+2023-04-01 ; 856529633790;AWS CloudTrail ; 0 ; USD ; False
+2023-04-01 ; 856529633790;AWS Data Transfer ; -0.0007443295 ; USD ; False
+2023-04-01 ; 856529633790;AWS Glue ; 0 ; USD ; False
+2023-04-01 ; 856529633790;AWS Key Management Service ; 0 ; USD ; False
+2023-04-01 ; 856529633790;AWS Lambda ; 0 ; USD ; False
+2023-04-01 ; 856529633790;AWS Step Functions ; 0 ; USD ; False
+2023-04-01 ; 856529633790;Amazon CloudFront ; 0 ; USD ; False
+2023-04-01 ; 856529633790;Amazon DynamoDB ; -0 ; USD ; False
+2023-04-01 ; 856529633790;EC2 - Other ; 0.0007435575 ; USD ; False
+2023-04-01 ; 856529633790;Amazon Elastic Compute Cloud - Compute ; -0 ; USD ; False
+2023-04-01 ; 856529633790;Amazon Simple Notification Service ; 0 ; USD ; False
+2023-04-01 ; 856529633790;Amazon Simple Storage Service ; 0.0000004061 ; USD ; False
+2023-04-01 ; 856529633790;AmazonCloudWatch ; -0.0000016632 ; USD ; False
+2023-04-01 ; 856529633790;CloudWatch Events ; 0 ; USD ; False
+2023-05-01 ; 856529633790;AWS CloudTrail ; 0 ; USD ; True
+2023-05-01 ; 856529633790;AWS Data Transfer ; -0.0006284291 ; USD ; True
+2023-05-01 ; 856529633790;AWS Glue ; 0 ; USD ; True
+2023-05-01 ; 856529633790;AWS Key Management Service ; 0 ; USD ; True
+2023-05-01 ; 856529633790;AWS Lambda ; 0 ; USD ; True
+2023-05-01 ; 856529633790;Amazon DynamoDB ; 0 ; USD ; True
+2023-05-01 ; 856529633790;EC2 - Other ; 0.0006277959 ; USD ; True
+2023-05-01 ; 856529633790;Amazon Elastic Compute Cloud - Compute ; 0 ; USD ; True
+2023-05-01 ; 856529633790;Amazon Simple Notification Service ; 0 ; USD ; True
+2023-05-01 ; 856529633790;Amazon Simple Queue Service ; 0 ; USD ; True
+2023-05-01 ; 856529633790;Amazon Simple Storage Service ; 0.0000006154 ; USD ; True
+2023-05-01 ; 856529633790;AmazonCloudWatch ; -0.000001872 ; USD ; True
+2023-05-01 ; 856529633790;CloudWatch Events ; 0 ; USD ; True
